@@ -11,9 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **crm-main** — a multi-tenant ISP/CRM platform (billing, invoicing, subscriber & network management)
 - 💻 Full-stack developer specializing in **Laravel** and **React**
-- 🌱 Deep domain expertise in the **ISP CRM** niche
 - 💼 Open to freelance work
 
 ### 🛠️ Tech Stack
