@@ -15,14 +15,15 @@
 
 
 
-###  About Me
 
-## Hobbies
+
+### Hobbies
 - Basketball
 - Chess
 - MOBA
 - Walking
 
+###  About Me
 -  Full-stack developer
 -  Open to freelance work
 
