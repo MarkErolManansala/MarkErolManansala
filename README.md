@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<h1>
+<h1 align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Developer;Open+to+Freelance+Work"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=false&vCenter=true&width=500&lines=Software+Developer;Open+to+Freelance+Work"
     alt="Typing SVG"
   />
 </h1>
@@ -17,7 +17,7 @@
 
 ###  About Me
 
--  Full-stack developer specializing in **Laravel** and **React**
+-  Full-stack developer specializing Web Development
 -  Open to freelance work
 
 ###  Tech Stack
@@ -48,7 +48,7 @@ GitHub Stats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkErolManansala&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkErolManansala&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
