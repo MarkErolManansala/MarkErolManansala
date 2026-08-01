@@ -1,4 +1,10 @@
 <h1>Hi , I'm Erol</h1>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MarkErolManansala&color=2ECC71&style=flat-square" alt="Profile views" />
+  <a href="mailto:manansalamarkerol@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2ECC71?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <h1>
   <img
@@ -7,12 +13,7 @@
   />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarkErolManansala&color=2ECC71&style=flat-square" alt="Profile views" />
-  <a href="mailto:manansalamarkerol@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2ECC71?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 ###  About Me
 
@@ -41,10 +42,9 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
-###  GitHub Stats
 
-<p align="center">
-
+GitHub Stats
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkErolManansala&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
@@ -52,6 +52,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkErolManansala&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <a href="mailto:manansalamarkerol@gmail.com"> manansalamarkerol@gmail.com</a>
-</p>
