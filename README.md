@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Erol</h1>
+<h1>Hi , I'm Erol</h1>
 
-<h1 style={{ textAlign: 'center' }}>
+<h1>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Developer;Open+to+Freelance+Work"
     alt="Typing SVG"
