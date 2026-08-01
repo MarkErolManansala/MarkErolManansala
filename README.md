@@ -17,7 +17,13 @@
 
 ###  About Me
 
--  Full-stack developer specializing Web Development
+## Hobbies
+- Basketball
+- Chess
+- MOBA
+- Walking
+
+-  Full-stack developer
 -  Open to freelance work
 
 ###  Tech Stack
