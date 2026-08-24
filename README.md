@@ -50,11 +50,6 @@
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
 
-GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkErolManansala&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkErolManansala&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
