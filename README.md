@@ -1,10 +1,4 @@
 <h1>Hi , I'm Erol</h1>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MarkErolManansala&color=2ECC71&style=flat-square" alt="Profile views" />
-  <a href="mailto:manansalamarkerol@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2ECC71?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <h1 align="left">
   <img
